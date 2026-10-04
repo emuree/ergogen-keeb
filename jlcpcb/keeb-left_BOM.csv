@@ -1,0 +1,6 @@
+Comment,Designator,Footprint,JLCPCB Part #
+1N4148W Diode SOD-123,"D1, D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D20, D21, D22, D23, D24, D25, D26, D27, D28, D29, D30, D31, D32, D33",diode_tht_sod123,C7420318
+Mechanical Keyboard Shaft,"S1, S2, S3, S4, S5, S6, S7, S8, S9, S10, S11, S12, S13, S14, S15, S16, S17, S18, S19, S20, S21, S22, S23, S24, S25, S26, S27, S28, S29, S30, S31, S32, S33",switch_mx,C49352235
+1.25mm Wire To Board Connector,JST1,CONN-SMD_1.25T-2P-WT,C145938
+9x3.5mm Slide Switch,PWR1,SW-TH_K3-1235D-L1,C223840
+6x3.5mm Tactile Switch,RST1,KEY-SMD_L6.0-W3.3-LS6.7,C127906

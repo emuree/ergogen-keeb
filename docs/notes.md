@@ -3,7 +3,7 @@ These are little notes to myself that I found useful (and because if I don't wri
 - [How to View These PCBs With Their 3D Models in KiCad](#how-to-view-these-pcbs-with-their-3d-models-in-kicad)
 - [Refining Ergogen Board Outlines in Fusion](#refining-ergogen-board-outlines-in-fusion)
 - [How to Import SVG for Board Outline in KiCad](#how-to-import-svg-for-board-outline-in-kicad)
-- [Fixing Part Positions/Rotations with Fabrication-Toolkit](#fixing-part-positions-rotations-with-fabrication-toolkit)
+- [Fixing Part Positions and Rotations with Fabrication-Toolkit](#fixing-part-positions-and-rotations-with-fabrication-toolkit)
 
 ## How to View These PCBs With Their 3D Models in KiCad
 Clone/download this repo and note down your local path to the /kicad/easyeda2kicad/ directory.
@@ -82,7 +82,7 @@ Once again, go to `Global Deletions`. Check the box for `Graphics` and select th
 
 Your new board outline is now in place on the `Edge.Cuts` layer. Refill ground zones and run DRC to verify.
 
-## Fixing Part Positions/Rotations with Fabrication-Toolkit
+## Fixing Part Positions and Rotations with Fabrication-Toolkit
 
 The Fabrication-Toolkit plugin was used to generate the gerbers, BOMs, and component position files for the boards. These were uploaded to JLCPCB and their 3D Component Placement viewer gives a preview of the parts placement. To my surprise all of the hotswap sockets were misaligned and the diodes had their orientations reversed.
 
